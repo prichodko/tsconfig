@@ -1,0 +1,18 @@
+{
+  "name": "@prichodko/tsconfig",
+  "version": "0.1.0",
+  "description": "Personal TypeScript config",
+  "license": "MIT",
+  "repository": "prichodko/tsconfig",
+  "author": "prichodko.p@gmail.com",
+  "engines": {
+    "node": ">=6"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript"
+  ]
+}
