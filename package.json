@@ -1,8 +1,7 @@
 {
   "name": "@prichodko/tsconfig",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Personal TypeScript config",
-  "license": "MIT",
   "repository": "prichodko/tsconfig",
   "author": "prichodko.p@gmail.com",
   "engines": {
